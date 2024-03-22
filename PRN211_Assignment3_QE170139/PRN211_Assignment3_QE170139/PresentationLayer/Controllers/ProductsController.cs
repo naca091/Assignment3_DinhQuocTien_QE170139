@@ -18,9 +18,6 @@ namespace PresentationLayer.Controllers
         {
             _productRepository = productRepository;
         }
-
-        // GET: Products
-        // GET: Products
         public async Task<IActionResult> Index(int? categoryId)
         {
             IEnumerable<Product> products = _productRepository.GetAllProducts();
@@ -34,7 +31,6 @@ namespace PresentationLayer.Controllers
 
             return View(products);
         }
-        // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -50,8 +46,6 @@ namespace PresentationLayer.Controllers
 
             return View(product);
         }
-
-        // GET: Products/Create
         public IActionResult Create()
         {
             return View();
@@ -85,8 +79,6 @@ namespace PresentationLayer.Controllers
             }
             return View(product);
         }
-
-        // POST: Products/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ProductId,CategoryId,ProductName,Weight,UnitPrice,UnitsInStock")] Product product)
