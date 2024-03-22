@@ -25,7 +25,6 @@ namespace PresentationLayer.Controllers
             var salesManagementContext = _context.Orders.Include(o => o.Member);
             return View(await salesManagementContext.ToListAsync());
         }
-
         // GET: Orders/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -33,7 +32,6 @@ namespace PresentationLayer.Controllers
             {
                 return NotFound();
             }
-
             var order = await _context.Orders
                 .Include(o => o.Member)
                 .FirstOrDefaultAsync(m => m.OrderId == id);
@@ -41,17 +39,10 @@ namespace PresentationLayer.Controllers
             {
                 return NotFound();
             }
-
-            // Lấy thông tin chi tiết đơn hàng từ bảng OrderDetails
             var orderDetails = await _context.OrderDetails
                 .Where(od => od.OrderId == id)
                 .ToListAsync();
-
-
-            // Tạo danh sách để lưu thông tin chi tiết sản phẩm
             var productDetails = new List<ProductDetail>();
-
-            // Lấy thông tin chi tiết sản phẩm từ bảng Product dựa trên ProductId
             foreach (var detail in orderDetails)
             {
                 var product = await _context.Products
@@ -69,7 +60,6 @@ namespace PresentationLayer.Controllers
                     productDetails.Add(productDetail);
                 }
             }
-            // Tạo một ViewModel để chứa cả thông tin về đơn hàng và danh sách chi tiết đơn hàng
             var orderViewModel = new OrderViewModel
             {
                 Order = order,
@@ -85,10 +75,6 @@ namespace PresentationLayer.Controllers
             ViewData["MemberId"] = new SelectList(_context.Members, "MemberId", "CompanyName");
             return View();
         }
-
-        // POST: Orders/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("OrderId,OrderDate,RequiredDate,MemberId,ShippedDate,Freight")] Order order)
@@ -114,8 +100,6 @@ namespace PresentationLayer.Controllers
                 return View(order);
             }
         }
-
-        // GET: Orders/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Orders == null)
@@ -131,10 +115,6 @@ namespace PresentationLayer.Controllers
             ViewData["MemberId"] = new SelectList(_context.Members, "MemberId", "City", order.MemberId);
             return View(order);
         }
-
-        // POST: Orders/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("OrderId,OrderDate,RequiredDate,MemberId,ShippedDate,Freight")] Order order)
@@ -186,8 +166,6 @@ namespace PresentationLayer.Controllers
 
             return View(order);
         }
-
-        // POST: Orders/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
