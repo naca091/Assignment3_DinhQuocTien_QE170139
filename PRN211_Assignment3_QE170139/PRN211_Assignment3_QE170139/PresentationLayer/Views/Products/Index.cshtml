@@ -1,0 +1,109 @@
+﻿@model IEnumerable<BusinessObject.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    var categoryIds = ViewBag.CategoryIds as IEnumerable<int>;
+}
+
+<h1>Products list</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+
+</p>
+
+<div class="mb-3">
+    <label for="categoryFilter" class="form-label">Filter by Category:</label>
+    <select id="categoryFilter" class="form-select">
+        <option value="">All Categories</option>
+        @foreach (var categoryId in categoryIds)
+        {
+            <option value="@categoryId">@categoryId</option>
+        }
+    </select>
+</div>
+
+<table class="table table-bordered border-primary" id="productTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsInStock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitsInStock)
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> 
+                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.ProductId">Details</a> 
+                <a class="btn btn-primary" asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#categoryFilter').change(function () {
+                var categoryId = $(this).val();
+
+                // Gửi yêu cầu AJAX để lọc sản phẩm dựa trên danh mục được chọn
+                $.get('/Products/FilterProducts', { categoryId: categoryId })
+                    .done(function (data) {
+                        // Xóa các dòng hiện có trong bảng sản phẩm
+                        $('#productTable tbody').empty();
+
+                        // Thêm dữ liệu sản phẩm mới vào bảng
+                        $.each(data, function (index, product) {
+                            var row = $('<tr>');
+                            row.append($('<td>').text(product.categoryId));
+                            row.append($('<td>').text(product.productName));
+                            row.append($('<td>').text(product.unitPrice));
+                            row.append($('<td>').text(product.unitsInStock));
+                            row.append($('<td>').text(product.weight));
+                            var actions = $('<td>');
+                            actions.append('<a class="btn btn-primary" href="/Products/Edit/' + product.productId + '">Edit</a>');
+                            actions.append('<a class="btn btn-primary" href="/Products/Details/' + product.productId + '">Details</a>');
+                            actions.append('<a class="btn btn-primary" href="/Products/Delete/' + product.productId + '">Delete</a>');
+                            row.append(actions);
+                            $('#productTable tbody').append(row);
+                        });
+                    })
+                    .fail(function (xhr, status, error) {
+                        console.error('Error: ' + error);
+                    });
+            });
+        });
+    </script>
+}

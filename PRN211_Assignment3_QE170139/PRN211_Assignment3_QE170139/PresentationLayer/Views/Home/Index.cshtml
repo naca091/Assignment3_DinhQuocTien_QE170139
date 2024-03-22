@@ -1,0 +1,26 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor _httpContextAccessor
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome @_httpContextAccessor.HttpContext.Session.GetString("UserRole")</h1>
+
+    @if (_httpContextAccessor.HttpContext.Session.GetString("UserRole") == "Admin")
+    {
+        <div>
+            <a class="btn btn-primary" href="/Products">Products</a>
+            <a class="btn btn-primary" href="/Members">Members</a>
+            <a class="btn btn-primary" href="/Orders">Orders</a>
+        </div>
+    }
+
+    @if (_httpContextAccessor.HttpContext.Session.GetString("UserRole") == "Member")
+    {
+        <div>
+            <a class="btn btn-primary" href="/UserProduct">Shopping</a>
+            <a class="btn btn-primary" href="/UserOrders">View Order</a>
+        </div>
+    }
+
+</div>

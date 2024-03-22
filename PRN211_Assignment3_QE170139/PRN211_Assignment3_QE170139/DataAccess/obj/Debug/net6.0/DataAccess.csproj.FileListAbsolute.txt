@@ -1,0 +1,65 @@
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\lehai\source\repos\Ass02Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.sourcelink.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\FPT\SE sem5\prn211\Assignment3\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<BusinessObject.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Shopping</h1>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@item.ProductName</h5>
+                    <p class="card-text">
+                        <strong>Category: </strong>@item.CategoryId<br />
+                        <strong>Weight: </strong>@item.Weight<br />
+                        <strong>Unit Price: </strong>@item.UnitPrice<br />
+                        <strong>Units In Stock: </strong>@item.UnitsInStock
+                    </p>
+                    <form asp-controller="UserProduct" asp-action="AddToCart" method="post">
+                        <input type="hidden" name="id" value="@item.ProductId" /> <!-- Truyền id của sản phẩm -->
+                        <div class="form-group">
+                            <label for="quantity">Quantity:</label>
+                            <input type="number" class="form-control" id="quantity" name="quantity" value="1" min="1" />
+                        </div>
+                        <button type="submit" class="btn btn-success">Add to Cart</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

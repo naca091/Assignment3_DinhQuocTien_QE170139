@@ -1,0 +1,61 @@
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\lehai\source\repos\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\bin\Debug\net6.0\appsettings.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.sourcelink.json
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\FPT\SE sem5\prn211\PRN211-Assignment2\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\bin\Debug\net6.0\appsettings.json
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\FPT\SE sem5\prn211\Assignment3\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\PRN211_Assignment3_QE170020-main (1)\PRN211_Assignment3_QE170020-main\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

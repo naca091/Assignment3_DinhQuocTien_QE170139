@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|c:\\users\\asus\\downloads\\prn211_assignment3_qe170139\\prn211_assignment3_qe170139\\presentationlayer\\models\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|solutionrelative:presentationlayer\\models\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|c:\\users\\asus\\downloads\\prn211_assignment3_qe170139\\prn211_assignment3_qe170139\\presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|solutionrelative:presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\businessobject\\appconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\presentationlayer\\estore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA9583E6-5522-412E-BC69-D4C094A77C84}|PresentationLayer\\eStore.csproj|solutionrelative:presentationlayer\\estore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD4416-2D28-4824-8FAE-4732ACA4DD93}|DataAccess\\DataAccess.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DCD4416-2D28-4824-8FAE-4732ACA4DD93}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\businessobject\\models\\salesmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\salesmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\businessobject\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\businessobject\\migrations\\salesmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\migrations\\salesmanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\businessobject\\migrations\\20240314191257_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85ED6BB-CC1E-4566-B1E2-99BD8340F785}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\migrations\\20240314191257_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\Models\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Models\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\Models\\ProductDetail.cs",
+              "RelativeToolTip": "PresentationLayer\\Models\\ProductDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:21:41.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T08:18:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppConfigProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\AppConfigProvider.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\AppConfigProvider.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\AppConfigProvider.cs",
+              "RelativeToolTip": "BusinessObject\\AppConfigProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:18:41.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Models\\SalesManagementContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\SalesManagementContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Models\\SalesManagementContext.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\SalesManagementContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:18:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Models\\Member.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:18:38.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesManagementContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "RelativeToolTip": "BusinessObject\\Migrations\\SalesManagementContextModelSnapshot.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:18:29.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T08:18:11.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessObject",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T08:18:07.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentationLayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\appsettings.json",
+              "RelativeToolTip": "PresentationLayer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T08:17:28.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240314191257_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Migrations\\20240314191257_Init.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Migrations\\20240314191257_Init.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\BusinessObject\\Migrations\\20240314191257_Init.cs",
+              "RelativeToolTip": "BusinessObject\\Migrations\\20240314191257_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:18:30.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:17:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "eStore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\eStore.csproj",
+              "RelativeDocumentMoniker": "PresentationLayer\\eStore.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PRN211_Assignment3_QE170139\\PRN211_Assignment3_QE170139\\PresentationLayer\\eStore.csproj",
+              "RelativeToolTip": "PresentationLayer\\eStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T08:19:19.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
