@@ -1,7 +1,7 @@
 ﻿using DataAccess.Repository;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
-using BusinessObject; // Import thư viện này để sử dụng Session
+using BusinessObject; 
 
 namespace PresentationLayer.Controllers
 {
