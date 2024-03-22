@@ -30,19 +30,12 @@ namespace PresentationLayer.Controllers
         // GET: UserOrders
         public async Task<IActionResult> Index()
         {
-            // Lấy ID của người dùng hiện tại từ session
             int userId = GetCurrentUserId();
-
-            // Lấy các đơn hàng của người dùng hiện tại
             var orders = await _context.Orders
                 .Include(o => o.Member)
                 .Where(o => o.MemberId == userId)
                 .ToListAsync();
-
-            // Sử dụng dictionary để lưu tổng giá trị của mỗi đơn hàng
             Dictionary<int, decimal> orderTotalPrices = new Dictionary<int, decimal>();
-
-            // Tính tổng giá trị của mỗi đơn hàng
             foreach (var order in orders)
             {
                 decimal totalPrice = _context.OrderDetails
@@ -51,8 +44,6 @@ namespace PresentationLayer.Controllers
 
                 orderTotalPrices.Add(order.OrderId, totalPrice);
             }
-
-            // Truyền tổng giá trị vào view thông qua ViewBag
             ViewBag.OrderTotalPrices = orderTotalPrices;
 
             return View(orders);
@@ -69,7 +60,6 @@ namespace PresentationLayer.Controllers
                 return RedirectToAction("Index", "UserProduct"); // Redirect to product page if cart is empty
             }
 
-            // Create a new Order entity
             var order = new Order
             {
                 OrderDate = DateTime.Now,
@@ -118,7 +108,7 @@ namespace PresentationLayer.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Lưu đơn hàng vào cơ sở dữ liệu và xóa giỏ hàng từ session
+     
                 _context.Add(order);
                 await _context.SaveChangesAsync();
                 HttpContext.Session.Remove("Cart");
@@ -133,14 +123,11 @@ namespace PresentationLayer.Controllers
         // Helper method to get the current user's ID from session
         private int GetCurrentUserId()
         {
-            // Here you need to implement logic to get the current user's ID from session
-            // For the sake of simplicity, let's assume you have a session key named "UserId" storing the user's ID
-            //return try parse
+
             string id = HttpContext.Session.GetString("UserId");
             return int.TryParse(id, out int result) ? result : 0;
         }
 
-        //details page
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -161,11 +148,8 @@ namespace PresentationLayer.Controllers
                 .Where(od => od.OrderId == id)
                 .ToListAsync();
 
-
-            // Tạo danh sách để lưu thông tin chi tiết sản phẩm
             var productDetails = new List<ProductDetail>();
 
-            // Lấy thông tin chi tiết sản phẩm từ bảng Product dựa trên ProductId
             foreach (var detail in orderDetails)
             {
                 var product = await _context.Products
@@ -183,7 +167,6 @@ namespace PresentationLayer.Controllers
                     productDetails.Add(productDetail);
                 }
             }
-            // Tạo một ViewModel để chứa cả thông tin về đơn hàng và danh sách chi tiết đơn hàng
             var orderViewModel = new OrderViewModel
             {
                 Order = order,
